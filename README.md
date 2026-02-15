@@ -5,6 +5,8 @@
 > **Statut :** Démo
 > 
 > **Type :** Simulation
+>
+> **Durée du projet :** 2 semaines
 
 ## 📖 Introduction
 Ce projet a été conçu dans le but principal de travailler sur un moteur de jeu inconnu pas entièrement fonctionnel afin de nous mettre à l'épreuve sur les difficuktés que nous allion rencontrés dessus
