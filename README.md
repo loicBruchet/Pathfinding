@@ -9,8 +9,11 @@
 > **Durée du projet :** 2 semaines
 
 ## 📖 Introduction
-Ce projet a été conçu dans le but principal de travailler sur un moteur de jeu inconnu pas entièrement fonctionnel afin de nous mettre à l'épreuve sur les difficuktés que nous allion rencontrés dessus
-et de coopéréer avec la fillière artistique en tant que lead du projet
+L'objectif du projet est de nous initier aux principes du pathfinding, comprendre les différentes façons de le réaliser et comment l'optimiser.
+
+## ⁉️ Qu'est-ce que le pathfinding ?
+
+Le pathfinding est un algorithme utilisé dans l'intelligence artificielle, permettant à un personnage de se diriger d'un point A à un point B en prenant le chemin le plus court.
 
 ## 🛠️ Stack Technique
 * **Moteur :** GC simple render et lightEngine (moteur de notre intervenant)
@@ -21,11 +24,11 @@ et de coopéréer avec la fillière artistique en tant que lead du projet
 
 ### 1. Parcourir une grille
 
-Le principe est simple, parcourir une grille en partant d'un point A et chercher la destination, on parcoures chaque case adjacentes à celles déjà visité et on leur incrémente un point de distance
+Le principe est simple : parcourir une grille en partant d'un point A et chercher la destination. On parcourt chaque case adjacente à celles déjà visitées et on leur incrémente un point de distance
 
 ### 2. Trouver le chemin le plus court
 
-Lorsque le pathfinding a atteint la case de destination, il va réaliser un demitour pour former qu'un simple chemin tout tracé
+Lorsque le pathfinding a atteint la case de destination, il va réaliser un demi-tour pour former un simple chemin tout tracé
 
 
 ## 🚀 Améliorations Futures
